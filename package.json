@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirius-Star42/nodejs_chat_app.git"
+  },
+  "keywords": [],
+  "author": "sirius_star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirius-Star42/nodejs_chat_app/issues"
+  },
+  "homepage": "https://github.com/Sirius-Star42/nodejs_chat_app#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
