@@ -24,7 +24,7 @@ To run this project, you will need to install the following environment
 
 `socket.io`
 
-`epress`
+`express`
 
 
 ## Run Locally
@@ -34,9 +34,8 @@ Clone the project
 ```bash
   git clone https://github.com/Sirius-Star42/nodejs_chat_app.git
 
-Go to the project directory
+  Go to the project directory
 
-```bash
   cd main folder
 ```
 
